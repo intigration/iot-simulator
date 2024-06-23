@@ -1,0 +1,68 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\siemens\\fuxa-l"
+		},
+		{
+			"path": "..\\..\\..\\channel-manager"
+		},
+		{
+			"path": "..\\..\\..\\siemens\\connection-manage"
+		},
+		{
+			"path": "..\\..\\..\\code\\couchdb-fauxton"
+		},
+		{
+			"path": "..\\..\\..\\code\\mqtt-lens"
+		},
+		{
+			"path": "..\\..\\..\\code\\api-mocker"
+		},
+		{
+			"path": "..\\..\\..\\orion-client"
+		},
+		{
+			"path": "..\\..\\..\\code\\portal-frontend"
+		},
+		{
+			"path": "..\\..\\..\\containerized-cga-1.2.8042-dev"
+		},
+		{
+			"path": "..\\..\\..\\downloads\\i3si\\usr\\local\\mgc\\bin\\i3s-dyn-loader-m3"
+		},
+		{
+			"path": "..\\..\\..\\code\\Yacht"
+		},
+		{
+			"path": "..\\..\\..\\downloads\\i3si"
+		},
+		{
+			"path": "..\\..\\..\\code\\vue-drag-and-drop-kanban"
+		},
+		{
+			"path": "..\\..\\..\\code\\django-hospital-appointment-system"
+		},
+		{
+			"path": "..\\..\\..\\code\\intel-iot-services-orchestration-layer"
+		},
+		{
+			"path": "..\\..\\..\\code\\bierman-gui"
+		},
+		{
+			"path": "..\\..\\..\\code\\oidc-client-js"
+		},
+		{
+			"path": "..\\..\\..\\code\\django-vue-element"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\code\\studio"
+		},
+		{
+			"path": "..\\..\\..\\iotplatform"
+		}
+	],
+	"settings": {}
+}
