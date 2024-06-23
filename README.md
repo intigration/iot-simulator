@@ -1,3 +1,6 @@
+
+
+
 ----------
 IoT-data-simulator is the tool which allows you to simulate IoT devices data with great flexibility. With this tool you won't need to code another new simulator for each IoT project.
 
@@ -244,6 +247,4 @@ For example, you can simulate raw device data to develop and test initial proces
 
 ## Contributing
 
-#   i o t - s i m u l a t o r 
- 
- 
+#
